@@ -1,15 +1,4 @@
-
-// const geistSans = localFont({
-//   src: "./fonts/GeistVF.woff",
-//   variable: "--font-geist-sans",
-//   weight: "100 900",
-// });
-// const geistMono = localFont({
-//   src: "./fonts/GeistMonoVF.woff",
-//   variable: "--font-geist-mono",
-//   weight: "100 900",
-// });
-
+import "@/assets/scss/style.scss";
 
 export const metadata = {
   title: "포트폴리오 사이트 만들기 🥺 Next-Site",
