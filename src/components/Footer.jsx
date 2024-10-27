@@ -6,16 +6,12 @@ const Footer = () => {
   return (
     <footer id="footer" role="contentinfo">
       <div className="footer__inner">
-        <div className="footer__text">
-          <span>webstoryboy</span>
-          <span>© webs</span>
-        </div>
+
         <div className="footer__info">
           <div className="left">
             <div className="title">
-              <a href="#">sign up</a>
+              <a href="javascript:void(0)">다양한 작업물을 확인해주세요!</a>
             </div>
-            <p>회원가입을 하시면 댓글과 게시판 기능을 이용할 수 있습니다.</p>
           </div>
           <div className="right">
             <h3>social</h3>

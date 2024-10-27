@@ -56,7 +56,6 @@ const Site = () => {
             </div>
             <h3 className="title">취업 후에도 학습을 위해 작업한 포트폴리오</h3>
             <div className="btn">
-              <a href="https://github.com/webstoryboy/port2023-vue">code</a>
               <a href="https://www.notion.so/12c90cfca4ca8063bcb1fb3c6606932f?pvs=4">view</a>
             </div>
             <div className="info">
