@@ -13,22 +13,27 @@ import port10 from "../assets/img/port10.jpg";
 
 export const headerNav = [
   {
+    id: "intro",
     title: "intro",
     url: "#intro"
   },
   {
+    id: "skill",
     title: "skill",
     url: "#skill"
   },
   {
+    id: "site",
     title: "site",
     url: "#site"
   },
   {
+    id: "portfolio",
     title: "portfolio",
     url: "#port"
   },
   {
+    id: "contact",
     title: "contact",
     url: "#contact"
   }
