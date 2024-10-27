@@ -21,6 +21,13 @@
 }
 
 // 상단 고정
+@mixin position-sticky {
+  position: sticky;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
 @mixin position-fixed {
   position: fixed;
   left: 0;
