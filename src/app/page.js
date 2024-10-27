@@ -7,7 +7,7 @@ import Skill from "@/components/Skill";
 import Site from "@/components/Site";
 import Port from "@/components/Port";
 import Contact from "@/components/Contact";
-import Skip from "@/components/Skip";
+// import Skip from "@/components/Skip";
 import lenis from "@/utils/lenis";
 import link from "@/utils/link";
 
@@ -19,7 +19,7 @@ export default function Home() {
 
   return (
     <>
-      <Skip />
+      {/* <Skip /> */}
       <Header />
       <main id="main" role="main">
         <Intro />
