@@ -62,7 +62,7 @@ const Site = () => {
             <div className="info">
               <span>site coding</span>
               <span>production period : 약 5일</span>
-              <span>use stack : html5/css3, CSS, javascript, git, vercel, figma ..</span>
+              <span>use stack : html5/css3, CSS, javascript, git, vercel, figma..</span>
             </div>
           </article>
           <article className="site__item s4">
