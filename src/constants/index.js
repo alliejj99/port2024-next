@@ -198,12 +198,10 @@ export const portText = [
 
 export const contactText = [
   {
-    link: "https://open.kakao.com/o/gM7YLzwf",
-    title: "KAKAO : webstupids",
+    title: "☎️: 010-8266-0865",
   },
   {
-    link: "mailto:webstoryboy@naver.com",
-    title: "mail : webstoryboy@naver.com",
+    title: "📧: alliejj99@gmail.com",
   },
 ];
 
