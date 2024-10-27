@@ -1,5 +1,5 @@
 import about from "../assets/img/about.jpg";
-import port01 from "../assets/img/port01.jpg";
+import port01 from "../assets/img/port01.png";
 import port02 from "../assets/img/port02.jpg";
 import port03 from "../assets/img/port03.jpg";
 import port04 from "../assets/img/port04.jpg";
@@ -110,12 +110,11 @@ export const siteText = [
 export const portText = [
   {
     num: "01",
-    title: "어워드에도 올라간 포트폴리오",
-    desc: "라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다. 이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+    title: "웹 표준 사이트",
+    desc: "웹 표준은 모든 기기와 브라우저에서 일관된 경험을 보장하는 기술적 지침이며 이러한 기술적 지침을 준수하여 제작한 사이트 입니다.",
     img: port01,
-    code: "https://github.com/kimsangjunv1/-React-Portfolio",
-    view: "https://portfoliosj-react.netlify.app",
-    name: "김상* 포트폴리오",
+    code: "https://www.figma.com/proto/dbTCG5iz0VENlr3GOF88Xc/%EC%9B%B9%ED%91%9C%EC%A4%80%EC%82%AC%EC%9D%B4%ED%8A%B8%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8?page-id=0%3A1&node-id=26-38&scaling=contain",
+    view: "https://jangar6.github.io/dothome1/wabstandard/index.html",
   },
   {
     num: "02",
@@ -124,7 +123,6 @@ export const portText = [
     img: port02,
     code: "https://github.com/seolhee313/PORTFOLIO-REACT",
     view: "https://portfolio-313.web.app/",
-    name: "천설* 포트폴리오",
   },
   {
     num: "03",
@@ -133,7 +131,6 @@ export const portText = [
     img: port03,
     code: "https://github.com/seolhee313/PORTFOLIO-REACT",
     view: "https://portfolio-313.web.app/",
-    name: "천설* 포트폴리오",
   },
   {
     num: "04",
@@ -142,7 +139,6 @@ export const portText = [
     img: port04,
     code: "https://github.com/dlgnsrb227/portfolio-next",
     view: "https://hoongportfolio-next.netlify.app/",
-    name: "이훈* 포트폴리오",
   },
   {
     num: "05",
